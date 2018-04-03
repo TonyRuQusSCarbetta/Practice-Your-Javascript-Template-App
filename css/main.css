@@ -1,0 +1,33 @@
+/* AUTOPREFIXER */
+/* https://autoprefixer.github.io/ */
+
+* {
+  /* font-family: 'Josefin Slab 400', serif; */
+  font-family: 'Abril Fatface 400', cursive;
+}
+
+h2 {
+  font-family: 'Josefin Slab 100', serif;
+}
+
+li {
+  display: inline-block;
+
+  /* font-family: 'Abril Fatface 200', cursive; */
+}
+
+ul {
+  list-style-type: none;
+}
+
+span#inputGroup-sizing-lg {
+  font-family: 'Josefin Slab 100', serif;
+}
+
+span#inputGroup-sizing-lg:hover {
+  cursor: pointer;
+}
+
+.col {
+  border: solid 2px black
+}
